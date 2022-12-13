@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670924784 source:c:\users\ccadmin\desktop\dait25\pro c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
